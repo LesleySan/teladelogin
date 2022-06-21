@@ -1,0 +1,10 @@
+.logo-xp{
+    width: 60px;
+    height: 60px;
+    
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
